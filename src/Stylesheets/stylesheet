@@ -1,0 +1,10 @@
+/*
+    Document   : controlStyle1
+*/
+
+.root{
+    -fx-font-size: 10pt;
+    -fx-background: #ffffff;
+    -fx-focus-color: #d69150;
+}
+
